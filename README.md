@@ -34,3 +34,6 @@ variables.tf              # Variables used in the Terraform project.
 
 3. **Deploy the infrastructure using terraform apply**
 
+
+### The Static website can be viewed by visiting **alameenq.xyz**
+
