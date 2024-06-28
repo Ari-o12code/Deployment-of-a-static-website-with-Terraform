@@ -1,5 +1,5 @@
 variable "company_domain_name" {
-  default = "alameenq.wordpress.com"
+  default = "alameenq.xyz"
 }
 
 variable "company_name" {
