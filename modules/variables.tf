@@ -17,5 +17,5 @@ variable "default_document" {
 variable "error_document" {
   description = "The web app's default error document."
   type        = string
-  default     = "404.html"
+  default     = "error.html"
 }

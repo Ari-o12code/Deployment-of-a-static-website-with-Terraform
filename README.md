@@ -28,12 +28,19 @@ variables.tf              # Variables used in the Terraform project.
       terraform init
       ```
 
+      ![terraform init](screenshots/terraform-init.jpg)
+      ![terraform plan](screenshots/terraform-plan.jpg)
+
 2. **Obtain SSL Certificate (Optional):**
    - Configure an SSL certificate using `acm.tf`file. 
 
 
 3. **Deploy the infrastructure using terraform apply**
 
+![terraform init](screenshots/terraform-apply.jpg)
+
 
 ### The Static website can be viewed by visiting **alameenq.xyz**
+
+![terraform apply](screenshots/website.jpg)
 
